@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+mint:
+"qV3mEpKWM9ygDn5iRs1PhxLCq7eJnQLs8JgMFDYpump"
+data:{4 items
+name:
+"MEME Magic DAO"
+symbol:
+"MMD"
+uri:
+"https://ipfs.io/ipfs/QmfPHmNQcJ1Xr3ckCNZYvLnnMUKfwJBaiCg9JAmQkQEK6k"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+254
+tokenStandard:
+2
+}
